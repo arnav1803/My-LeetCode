@@ -6,6 +6,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/arnav1803/My-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/arnav1803/My-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/arnav1803/My-LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/arnav1803/My-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/arnav1803/My-LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Stack
 |  |
 | ------- |
