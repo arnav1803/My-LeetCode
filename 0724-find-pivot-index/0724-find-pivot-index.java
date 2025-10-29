@@ -2,7 +2,7 @@ class Solution {
     public int pivotIndex(int[] nums) {
         int n = nums.length;
 
-        // for each index, calculate left sum and right sum separately
+        // For every possible pivot
         for (int i = 0; i < n; i++) {
             int leftSum = 0;
             int rightSum = 0;
@@ -17,7 +17,7 @@ class Solution {
                 rightSum += nums[j];
             }
 
-            // check if pivot
+            // check pivot
             if (leftSum == rightSum) {
                 return i;
             }
