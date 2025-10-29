@@ -20,6 +20,7 @@
 | [0075-sort-colors](https://github.com/arnav1803/My-LeetCode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/arnav1803/My-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/arnav1803/My-LeetCode/tree/master/0217-contains-duplicate) |
+| [0724-find-pivot-index](https://github.com/arnav1803/My-LeetCode/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 | ------- |
 | [0075-sort-colors](https://github.com/arnav1803/My-LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/arnav1803/My-LeetCode/tree/master/0217-contains-duplicate) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/arnav1803/My-LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
