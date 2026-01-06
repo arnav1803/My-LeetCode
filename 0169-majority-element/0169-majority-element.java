@@ -1,21 +1,21 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int n = nums.length;
+        // int count = 0;
 
-        for (int i = 0; i < n; i++) {
+        for(int i = 0; i < nums.length; i++){
             int count = 0;
-
-            // scan ENTIRE array every time
-            for (int j = 0; j < n; j++) {
-                if (nums[j] == nums[i]) {
-                    count++;
+            for(int j = i + 1; j < nums.length; j++){
+                if(nums[i] == nums[j]){
+                 count++;   
                 }
-            }
 
-            if (count > n / 2) {
+                
+            }
+            if(count >= nums.length / 2){
                 return nums[i];
             }
         }
-        return -1; // unreachable by constraints
+        return -1;
+        
     }
 }
