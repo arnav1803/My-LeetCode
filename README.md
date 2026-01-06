@@ -39,6 +39,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arnav1803/My-LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/arnav1803/My-LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
@@ -65,6 +66,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arnav1803/My-LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/arnav1803/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/arnav1803/My-LeetCode/tree/master/0344-reverse-string) |
 ## Math
