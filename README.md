@@ -67,4 +67,8 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/arnav1803/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/arnav1803/My-LeetCode/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/arnav1803/My-LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
