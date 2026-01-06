@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/arnav1803/My-LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/arnav1803/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/arnav1803/My-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/arnav1803/My-LeetCode/tree/master/0344-reverse-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/arnav1803/My-LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -64,5 +65,6 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/arnav1803/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/arnav1803/My-LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
