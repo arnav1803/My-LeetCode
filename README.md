@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/arnav1803/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/arnav1803/My-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/arnav1803/My-LeetCode/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/arnav1803/My-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [3034-points-that-intersect-with-cars](https://github.com/arnav1803/My-LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arnav1803/My-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0875-koko-eating-bananas](https://github.com/arnav1803/My-LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
