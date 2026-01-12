@@ -94,6 +94,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/arnav1803/My-LeetCode/tree/master/0009-palindrome-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/arnav1803/My-LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1323-maximum-69-number](https://github.com/arnav1803/My-LeetCode/tree/master/1323-maximum-69-number) |
 ## Counting
 |  |
 | ------- |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arnav1803/My-LeetCode/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/arnav1803/My-LeetCode/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
