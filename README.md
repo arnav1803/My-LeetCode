@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arnav1803/My-LeetCode/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/arnav1803/My-LeetCode/tree/master/0258-add-digits) |
 | [1266-minimum-time-visiting-all-points](https://github.com/arnav1803/My-LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1323-maximum-69-number](https://github.com/arnav1803/My-LeetCode/tree/master/1323-maximum-69-number) |
 ## Counting
@@ -123,4 +124,12 @@
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/arnav1803/My-LeetCode/tree/master/1323-maximum-69-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/arnav1803/My-LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/arnav1803/My-LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
