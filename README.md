@@ -39,6 +39,7 @@
 | [0001-two-sum](https://github.com/arnav1803/My-LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnav1803/My-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/arnav1803/My-LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/arnav1803/My-LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/arnav1803/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [2404-most-frequent-even-element](https://github.com/arnav1803/My-LeetCode/tree/master/2404-most-frequent-even-element) |
 | [3034-points-that-intersect-with-cars](https://github.com/arnav1803/My-LeetCode/tree/master/3034-points-that-intersect-with-cars) |
@@ -49,6 +50,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arnav1803/My-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/arnav1803/My-LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/arnav1803/My-LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/arnav1803/My-LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/arnav1803/My-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/arnav1803/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/arnav1803/My-LeetCode/tree/master/0344-reverse-string) |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arnav1803/My-LeetCode/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/arnav1803/My-LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/arnav1803/My-LeetCode/tree/master/0258-add-digits) |
 | [1266-minimum-time-visiting-all-points](https://github.com/arnav1803/My-LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1323-maximum-69-number](https://github.com/arnav1803/My-LeetCode/tree/master/1323-maximum-69-number) |
