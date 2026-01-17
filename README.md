@@ -102,6 +102,7 @@
 | [0009-palindrome-number](https://github.com/arnav1803/My-LeetCode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/arnav1803/My-LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/arnav1803/My-LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/arnav1803/My-LeetCode/tree/master/0263-ugly-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/arnav1803/My-LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1323-maximum-69-number](https://github.com/arnav1803/My-LeetCode/tree/master/1323-maximum-69-number) |
 ## Counting
