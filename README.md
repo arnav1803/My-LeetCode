@@ -21,6 +21,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arnav1803/My-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arnav1803/My-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/arnav1803/My-LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/arnav1803/My-LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/arnav1803/My-LeetCode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/arnav1803/My-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/arnav1803/My-LeetCode/tree/master/0169-majority-element) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arnav1803/My-LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/arnav1803/My-LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/arnav1803/My-LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/arnav1803/My-LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/arnav1803/My-LeetCode/tree/master/0263-ugly-number) |
