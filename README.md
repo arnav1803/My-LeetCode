@@ -23,6 +23,7 @@
 | [0035-search-insert-position](https://github.com/arnav1803/My-LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/arnav1803/My-LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/arnav1803/My-LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/arnav1803/My-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/arnav1803/My-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/arnav1803/My-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arnav1803/My-LeetCode/tree/master/0217-contains-duplicate) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arnav1803/My-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/arnav1803/My-LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/arnav1803/My-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/arnav1803/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/arnav1803/My-LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/arnav1803/My-LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/arnav1803/My-LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/arnav1803/My-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/arnav1803/My-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arnav1803/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0229-majority-element-ii) |
