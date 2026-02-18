@@ -30,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/arnav1803/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/arnav1803/My-LeetCode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/arnav1803/My-LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/arnav1803/My-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/arnav1803/My-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/arnav1803/My-LeetCode/tree/master/0724-find-pivot-index) |
@@ -97,6 +98,7 @@
 | [0169-majority-element](https://github.com/arnav1803/My-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arnav1803/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/arnav1803/My-LeetCode/tree/master/0414-third-maximum-number) |
 ## Prefix Sum
 |  |
 | ------- |
