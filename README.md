@@ -46,6 +46,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/arnav1803/My-LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnav1803/My-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/arnav1803/My-LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/arnav1803/My-LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/arnav1803/My-LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/arnav1803/My-LeetCode/tree/master/0217-contains-duplicate) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnav1803/My-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/arnav1803/My-LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/arnav1803/My-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/arnav1803/My-LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/arnav1803/My-LeetCode/tree/master/0125-valid-palindrome) |
@@ -117,6 +119,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arnav1803/My-LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/arnav1803/My-LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/arnav1803/My-LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/arnav1803/My-LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/arnav1803/My-LeetCode/tree/master/0202-happy-number) |
