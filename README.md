@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arnav1803/My-LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/arnav1803/My-LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/arnav1803/My-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/arnav1803/My-LeetCode/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -131,6 +132,7 @@
 | [0013-roman-to-integer](https://github.com/arnav1803/My-LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/arnav1803/My-LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/arnav1803/My-LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/arnav1803/My-LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/arnav1803/My-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/arnav1803/My-LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/arnav1803/My-LeetCode/tree/master/0258-add-digits) |
@@ -182,5 +184,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/arnav1803/My-LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/arnav1803/My-LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
