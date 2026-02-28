@@ -141,6 +141,7 @@
 | [0509-fibonacci-number](https://github.com/arnav1803/My-LeetCode/tree/master/0509-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/arnav1803/My-LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1323-maximum-69-number](https://github.com/arnav1803/My-LeetCode/tree/master/1323-maximum-69-number) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/arnav1803/My-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arnav1803/My-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Counting
 |  |
@@ -170,6 +171,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arnav1803/My-LeetCode/tree/master/0258-add-digits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/arnav1803/My-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/arnav1803/My-LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Number Theory
 |  |
@@ -200,4 +202,8 @@
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arnav1803/My-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/arnav1803/My-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 <!---LeetCode Topics End-->
