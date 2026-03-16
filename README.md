@@ -134,6 +134,7 @@
 | [0125-valid-palindrome](https://github.com/arnav1803/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/arnav1803/My-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/arnav1803/My-LeetCode/tree/master/0344-reverse-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/arnav1803/My-LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/arnav1803/My-LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arnav1803/My-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Math
