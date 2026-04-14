@@ -13,6 +13,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/arnav1803/My-LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/arnav1803/My-LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/arnav1803/My-LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/arnav1803/My-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/arnav1803/My-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/arnav1803/My-LeetCode/tree/master/0509-fibonacci-number) |
@@ -147,6 +148,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/arnav1803/My-LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/arnav1803/My-LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/arnav1803/My-LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/arnav1803/My-LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/arnav1803/My-LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/arnav1803/My-LeetCode/tree/master/0070-climbing-stairs) |
