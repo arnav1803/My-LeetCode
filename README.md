@@ -169,6 +169,7 @@
 | [1323-maximum-69-number](https://github.com/arnav1803/My-LeetCode/tree/master/1323-maximum-69-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/arnav1803/My-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arnav1803/My-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3783-mirror-distance-of-an-integer](https://github.com/arnav1803/My-LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Counting
 |  |
 | ------- |
