@@ -49,6 +49,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/arnav1803/My-LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/arnav1803/My-LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/arnav1803/My-LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/arnav1803/My-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2404-most-frequent-even-element](https://github.com/arnav1803/My-LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/arnav1803/My-LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3034-points-that-intersect-with-cars](https://github.com/arnav1803/My-LeetCode/tree/master/3034-points-that-intersect-with-cars) |
@@ -82,6 +83,7 @@
 | [0283-move-zeroes](https://github.com/arnav1803/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/arnav1803/My-LeetCode/tree/master/0344-reverse-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/arnav1803/My-LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [2109-adding-spaces-to-a-string](https://github.com/arnav1803/My-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [0168-excel-sheet-column-title](https://github.com/arnav1803/My-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/arnav1803/My-LeetCode/tree/master/0344-reverse-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/arnav1803/My-LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2109-adding-spaces-to-a-string](https://github.com/arnav1803/My-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/arnav1803/My-LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arnav1803/My-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Math
@@ -197,6 +200,7 @@
 | [0258-add-digits](https://github.com/arnav1803/My-LeetCode/tree/master/0258-add-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/arnav1803/My-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/arnav1803/My-LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/arnav1803/My-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 ## Number Theory
 |  |
 | ------- |
