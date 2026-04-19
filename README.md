@@ -48,6 +48,7 @@
 | [0875-koko-eating-bananas](https://github.com/arnav1803/My-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1266-minimum-time-visiting-all-points](https://github.com/arnav1803/My-LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/arnav1803/My-LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/arnav1803/My-LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/arnav1803/My-LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/arnav1803/My-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2404-most-frequent-even-element](https://github.com/arnav1803/My-LeetCode/tree/master/2404-most-frequent-even-element) |
@@ -83,6 +84,7 @@
 | [0283-move-zeroes](https://github.com/arnav1803/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/arnav1803/My-LeetCode/tree/master/0344-reverse-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/arnav1803/My-LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/arnav1803/My-LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2109-adding-spaces-to-a-string](https://github.com/arnav1803/My-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 ## Stack
 |  |
@@ -108,6 +110,7 @@
 | [0268-missing-number](https://github.com/arnav1803/My-LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/arnav1803/My-LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/arnav1803/My-LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/arnav1803/My-LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3453-separate-squares-i](https://github.com/arnav1803/My-LeetCode/tree/master/3453-separate-squares-i) |
 ## Divide and Conquer
 |  |
