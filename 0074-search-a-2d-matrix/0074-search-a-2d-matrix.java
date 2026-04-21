@@ -4,11 +4,19 @@ class Solution {
         for(int i=0;i<n;i++){
             if(target>=matrix[i][0]&&target<=matrix[i][m]){
                 row=i;
+                break;
             }
         }
-        for(int i=0;i<=m;i++){
-            if(target==matrix[row][i]){
-                return true;
+        int low=0;int high=m;
+
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if (matrix[row][mid]==target) {
+                return true;}
+            else if(target<matrix[row][mid]){
+                high=mid-1;
+            }else{
+                low=mid+1;
             }
         }
         return false;
