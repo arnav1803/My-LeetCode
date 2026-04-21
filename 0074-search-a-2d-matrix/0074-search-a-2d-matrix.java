@@ -4,7 +4,6 @@ class Solution {
         for(int i=0;i<n;i++){
             if(target>=matrix[i][0]&& target<=matrix[i][m]){
                 row=i;
-                break;
             }
         }
         for(int i=0;i<=m;i++){
