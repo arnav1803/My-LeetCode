@@ -31,6 +31,7 @@
 | [0039-combination-sum](https://github.com/arnav1803/My-LeetCode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/arnav1803/My-LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/arnav1803/My-LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/arnav1803/My-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/arnav1803/My-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arnav1803/My-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/arnav1803/My-LeetCode/tree/master/0118-pascals-triangle) |
@@ -112,6 +113,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/arnav1803/My-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/arnav1803/My-LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/arnav1803/My-LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/arnav1803/My-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/arnav1803/My-LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/arnav1803/My-LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/arnav1803/My-LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -219,6 +221,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/arnav1803/My-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/arnav1803/My-LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/arnav1803/My-LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## String Matching
