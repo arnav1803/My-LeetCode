@@ -1,8 +1,4 @@
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
+import java.util.*;
 class Solution {
     public long[] distance(int[] nums) {
         int n = nums.length;
