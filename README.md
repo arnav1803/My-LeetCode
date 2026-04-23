@@ -58,6 +58,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arnav1803/My-LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2109-adding-spaces-to-a-string](https://github.com/arnav1803/My-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2404-most-frequent-even-element](https://github.com/arnav1803/My-LeetCode/tree/master/2404-most-frequent-even-element) |
+| [2615-sum-of-distances](https://github.com/arnav1803/My-LeetCode/tree/master/2615-sum-of-distances) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/arnav1803/My-LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3034-points-that-intersect-with-cars](https://github.com/arnav1803/My-LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3453-separate-squares-i](https://github.com/arnav1803/My-LeetCode/tree/master/3453-separate-squares-i) |
@@ -74,6 +75,7 @@
 | [0229-majority-element-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/arnav1803/My-LeetCode/tree/master/0268-missing-number) |
 | [2404-most-frequent-even-element](https://github.com/arnav1803/My-LeetCode/tree/master/2404-most-frequent-even-element) |
+| [2615-sum-of-distances](https://github.com/arnav1803/My-LeetCode/tree/master/2615-sum-of-distances) |
 | [3034-points-that-intersect-with-cars](https://github.com/arnav1803/My-LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/arnav1803/My-LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Two Pointers
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/arnav1803/My-LeetCode/tree/master/0724-find-pivot-index) |
+| [2615-sum-of-distances](https://github.com/arnav1803/My-LeetCode/tree/master/2615-sum-of-distances) |
 | [3034-points-that-intersect-with-cars](https://github.com/arnav1803/My-LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 ## String
 |  |
