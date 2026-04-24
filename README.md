@@ -165,6 +165,7 @@
 | [0344-reverse-string](https://github.com/arnav1803/My-LeetCode/tree/master/0344-reverse-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/arnav1803/My-LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2109-adding-spaces-to-a-string](https://github.com/arnav1803/My-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/arnav1803/My-LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/arnav1803/My-LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arnav1803/My-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Math
@@ -195,6 +196,7 @@
 | [0169-majority-element](https://github.com/arnav1803/My-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0229-majority-element-ii) |
 | [2404-most-frequent-even-element](https://github.com/arnav1803/My-LeetCode/tree/master/2404-most-frequent-even-element) |
+| [2833-furthest-point-from-origin](https://github.com/arnav1803/My-LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/arnav1803/My-LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sliding Window
 |  |
