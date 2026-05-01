@@ -52,6 +52,7 @@
 | [0724-find-pivot-index](https://github.com/arnav1803/My-LeetCode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/arnav1803/My-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1266-minimum-time-visiting-all-points](https://github.com/arnav1803/My-LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1480-running-sum-of-1d-array](https://github.com/arnav1803/My-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/arnav1803/My-LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/arnav1803/My-LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/arnav1803/My-LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/arnav1803/My-LeetCode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/arnav1803/My-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2615-sum-of-distances](https://github.com/arnav1803/My-LeetCode/tree/master/2615-sum-of-distances) |
 | [3034-points-that-intersect-with-cars](https://github.com/arnav1803/My-LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 ## String
