@@ -1,12 +1,10 @@
 class Solution {
     public void reverseString(char[] s) {
-        int right=s.length-1;
-        int left=0;
-        while(left<right){
-            char temp=s[left];
-            s[left]=s[right];
-            s[right]=temp;
-            left++;right--;
+        String s1= new String(s);
+        StringBuilder sb= new StringBuilder(s1);
+        char arr[]= (sb.reverse().toString()).toCharArray();
+        for(int i=0;i<s.length;i++){
+            s[i]=arr[i];
         }
     }
 }
