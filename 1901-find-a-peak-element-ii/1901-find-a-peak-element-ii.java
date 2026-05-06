@@ -1,10 +1,7 @@
 class Solution{
     public int[] findPeakGrid(int[][] mat){
-        int n=mat.length-1;
-        int m=mat[0].length-1;
-        int row=0;
-        int col=0;
-
+        int n=mat.length-1;int m=mat[0].length-1;
+        int row=0;int col=0;
         do{
             if(row==0&&col==0){
                 if((n==0||mat[0][0]>mat[1][0])&&(m==0||mat[0][0]>mat[0][1])){
