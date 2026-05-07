@@ -122,6 +122,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnav1803/My-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/arnav1803/My-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/arnav1803/My-LeetCode/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/arnav1803/My-LeetCode/tree/master/0788-rotated-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -206,6 +207,7 @@
 | [0268-missing-number](https://github.com/arnav1803/My-LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/arnav1803/My-LeetCode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/arnav1803/My-LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0788-rotated-digits](https://github.com/arnav1803/My-LeetCode/tree/master/0788-rotated-digits) |
 | [1266-minimum-time-visiting-all-points](https://github.com/arnav1803/My-LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1323-maximum-69-number](https://github.com/arnav1803/My-LeetCode/tree/master/1323-maximum-69-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/arnav1803/My-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
