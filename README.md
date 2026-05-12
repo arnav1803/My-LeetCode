@@ -59,6 +59,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/arnav1803/My-LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/arnav1803/My-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/arnav1803/My-LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/arnav1803/My-LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/arnav1803/My-LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/arnav1803/My-LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/arnav1803/My-LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
@@ -162,6 +163,7 @@
 | [0242-valid-anagram](https://github.com/arnav1803/My-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arnav1803/My-LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/arnav1803/My-LeetCode/tree/master/0414-third-maximum-number) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/arnav1803/My-LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -242,6 +244,7 @@
 | ------- |
 | [1323-maximum-69-number](https://github.com/arnav1803/My-LeetCode/tree/master/1323-maximum-69-number) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/arnav1803/My-LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/arnav1803/My-LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arnav1803/My-LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Simulation
 |  |
