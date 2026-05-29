@@ -38,6 +38,7 @@
 | [0118-pascals-triangle](https://github.com/arnav1803/My-LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnav1803/My-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/arnav1803/My-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/arnav1803/My-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arnav1803/My-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/arnav1803/My-LeetCode/tree/master/0169-majority-element) |
@@ -83,6 +84,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnav1803/My-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/arnav1803/My-LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/arnav1803/My-LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/arnav1803/My-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/arnav1803/My-LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/arnav1803/My-LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/arnav1803/My-LeetCode/tree/master/0217-contains-duplicate) |
@@ -296,6 +298,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/arnav1803/My-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arnav1803/My-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
