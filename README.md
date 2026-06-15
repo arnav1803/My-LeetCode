@@ -15,6 +15,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/arnav1803/My-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/arnav1803/My-LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/arnav1803/My-LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/arnav1803/My-LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/arnav1803/My-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/arnav1803/My-LeetCode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/arnav1803/My-LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -226,6 +227,7 @@
 | [0168-excel-sheet-column-title](https://github.com/arnav1803/My-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/arnav1803/My-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arnav1803/My-LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/arnav1803/My-LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/arnav1803/My-LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/arnav1803/My-LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/arnav1803/My-LeetCode/tree/master/0268-missing-number) |
@@ -314,6 +316,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/arnav1803/My-LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/arnav1803/My-LeetCode/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/arnav1803/My-LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1009-complement-of-base-10-integer](https://github.com/arnav1803/My-LeetCode/tree/master/1009-complement-of-base-10-integer) |
