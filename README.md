@@ -46,6 +46,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnav1803/My-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/arnav1803/My-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/arnav1803/My-LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/arnav1803/My-LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/arnav1803/My-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/arnav1803/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0229-majority-element-ii) |
@@ -231,6 +232,7 @@
 | [0168-excel-sheet-column-title](https://github.com/arnav1803/My-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/arnav1803/My-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arnav1803/My-LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/arnav1803/My-LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/arnav1803/My-LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/arnav1803/My-LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/arnav1803/My-LeetCode/tree/master/0263-ugly-number) |
@@ -285,6 +287,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/arnav1803/My-LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/arnav1803/My-LeetCode/tree/master/0258-add-digits) |
 ## Matrix
 |  |
@@ -379,4 +382,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/arnav1803/My-LeetCode/tree/master/0912-sort-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/arnav1803/My-LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
