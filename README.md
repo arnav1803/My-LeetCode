@@ -68,6 +68,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/arnav1803/My-LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/arnav1803/My-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/arnav1803/My-LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1652-defuse-the-bomb](https://github.com/arnav1803/My-LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/arnav1803/My-LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/arnav1803/My-LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/arnav1803/My-LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -257,6 +258,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnav1803/My-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/arnav1803/My-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/arnav1803/My-LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/arnav1803/My-LeetCode/tree/master/1652-defuse-the-bomb) |
 ## Geometry
 |  |
 | ------- |
