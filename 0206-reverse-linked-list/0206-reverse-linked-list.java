@@ -10,17 +10,19 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        ListNode t1 = null;         // previous
-        ListNode t2 = head;         // current
-        ListNode t3 = null;         // next
-
-        while (t2 != null) {
-            t3 = t2.next;           // store next
-            t2.next = t1;           // reverse pointer
-            t1 = t2;                // move prev forward
-            t2 = t3;                // move current forward
+        Stack<Integer> st= new Stack<>();
+        
+        ListNode temp= head;
+        while(temp!=null){
+            st.add(temp.val);
+            temp=temp.next;
         }
-
-        return t1; // new head
+        temp= head;
+        while(temp!=null){
+            temp.val=st.pop();
+            temp=temp.next;
+            
+        }
+        return head;
     }
 }
