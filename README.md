@@ -64,6 +64,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/arnav1803/My-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arnav1803/My-LeetCode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/arnav1803/My-LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/arnav1803/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/arnav1803/My-LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/arnav1803/My-LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -159,6 +160,7 @@
 | [0119-pascals-triangle-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnav1803/My-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/arnav1803/My-LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/arnav1803/My-LeetCode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/arnav1803/My-LeetCode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0518-coin-change-ii) |
 | [0788-rotated-digits](https://github.com/arnav1803/My-LeetCode/tree/master/0788-rotated-digits) |
@@ -337,6 +339,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/arnav1803/My-LeetCode/tree/master/0322-coin-change) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arnav1803/My-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
