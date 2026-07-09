@@ -21,6 +21,6 @@ class Solution {
                 }
             }
         }
-        return dp[n][(sum-x)/2];
+        return dp[n][(sum+x)/2];
     }
 }
