@@ -70,6 +70,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/arnav1803/My-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/arnav1803/My-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/arnav1803/My-LeetCode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/arnav1803/My-LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/arnav1803/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/arnav1803/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -163,6 +164,7 @@
 | [0152-maximum-product-subarray](https://github.com/arnav1803/My-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/arnav1803/My-LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/arnav1803/My-LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/arnav1803/My-LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/arnav1803/My-LeetCode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0518-coin-change-ii) |
 | [0788-rotated-digits](https://github.com/arnav1803/My-LeetCode/tree/master/0788-rotated-digits) |
@@ -376,6 +378,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/arnav1803/My-LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/arnav1803/My-LeetCode/tree/master/0039-combination-sum) |
+| [0494-target-sum](https://github.com/arnav1803/My-LeetCode/tree/master/0494-target-sum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
