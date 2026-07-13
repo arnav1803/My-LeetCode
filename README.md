@@ -166,6 +166,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/arnav1803/My-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/arnav1803/My-LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/arnav1803/My-LeetCode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/arnav1803/My-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0518-coin-change-ii) |
 | [0788-rotated-digits](https://github.com/arnav1803/My-LeetCode/tree/master/0788-rotated-digits) |
 | [1143-longest-common-subsequence](https://github.com/arnav1803/My-LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -245,6 +246,7 @@
 | [0168-excel-sheet-column-title](https://github.com/arnav1803/My-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/arnav1803/My-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/arnav1803/My-LeetCode/tree/master/0344-reverse-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/arnav1803/My-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/arnav1803/My-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/arnav1803/My-LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arnav1803/My-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
