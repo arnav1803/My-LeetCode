@@ -79,6 +79,7 @@
 | [0724-find-pivot-index](https://github.com/arnav1803/My-LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/arnav1803/My-LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/arnav1803/My-LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/arnav1803/My-LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/arnav1803/My-LeetCode/tree/master/0912-sort-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/arnav1803/My-LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/arnav1803/My-LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -169,6 +170,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/arnav1803/My-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0518-coin-change-ii) |
 | [0788-rotated-digits](https://github.com/arnav1803/My-LeetCode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/arnav1803/My-LeetCode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/arnav1803/My-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
 |  |
@@ -274,6 +276,7 @@
 | [0509-fibonacci-number](https://github.com/arnav1803/My-LeetCode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/arnav1803/My-LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0788-rotated-digits](https://github.com/arnav1803/My-LeetCode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/arnav1803/My-LeetCode/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/arnav1803/My-LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1323-maximum-69-number](https://github.com/arnav1803/My-LeetCode/tree/master/1323-maximum-69-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/arnav1803/My-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -436,4 +439,16 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/arnav1803/My-LeetCode/tree/master/0239-sliding-window-maximum) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/arnav1803/My-LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/arnav1803/My-LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/arnav1803/My-LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
