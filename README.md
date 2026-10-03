@@ -153,6 +153,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arnav1803/My-LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/arnav1803/My-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/arnav1803/My-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/arnav1803/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/arnav1803/My-LeetCode/tree/master/0739-daily-temperatures) |
@@ -161,6 +162,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/arnav1803/My-LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/arnav1803/My-LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/arnav1803/My-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/arnav1803/My-LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arnav1803/My-LeetCode/tree/master/0064-minimum-path-sum) |
@@ -249,6 +251,7 @@
 | [0020-valid-parentheses](https://github.com/arnav1803/My-LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/arnav1803/My-LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arnav1803/My-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/arnav1803/My-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/arnav1803/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/arnav1803/My-LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/arnav1803/My-LeetCode/tree/master/0125-valid-palindrome) |
@@ -474,5 +477,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/arnav1803/My-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arnav1803/My-LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
