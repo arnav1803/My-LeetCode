@@ -370,6 +370,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/arnav1803/My-LeetCode/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/arnav1803/My-LeetCode/tree/master/0322-coin-change) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arnav1803/My-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
@@ -488,4 +489,16 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/arnav1803/My-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arnav1803/My-LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/arnav1803/My-LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/arnav1803/My-LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/arnav1803/My-LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
