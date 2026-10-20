@@ -107,6 +107,7 @@
 | [3453-separate-squares-i](https://github.com/arnav1803/My-LeetCode/tree/master/3453-separate-squares-i) |
 | [3637-trionic-array-i](https://github.com/arnav1803/My-LeetCode/tree/master/3637-trionic-array-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/arnav1803/My-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/arnav1803/My-LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -234,6 +235,7 @@
 | [0912-sort-an-array](https://github.com/arnav1803/My-LeetCode/tree/master/0912-sort-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/arnav1803/My-LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arnav1803/My-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3886-sum-of-sortable-integers](https://github.com/arnav1803/My-LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -300,6 +302,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/arnav1803/My-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arnav1803/My-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3783-mirror-distance-of-an-integer](https://github.com/arnav1803/My-LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3886-sum-of-sortable-integers](https://github.com/arnav1803/My-LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
 |  |
 | ------- |
@@ -456,6 +459,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/arnav1803/My-LeetCode/tree/master/0204-count-primes) |
+| [3886-sum-of-sortable-integers](https://github.com/arnav1803/My-LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Queue
 |  |
 | ------- |
