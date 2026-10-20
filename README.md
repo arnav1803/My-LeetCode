@@ -76,6 +76,7 @@
 | [0496-next-greater-element-i](https://github.com/arnav1803/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/arnav1803/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/arnav1803/My-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/arnav1803/My-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/arnav1803/My-LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/arnav1803/My-LeetCode/tree/master/0724-find-pivot-index) |
@@ -127,6 +128,7 @@
 | [0347-top-k-frequent-elements](https://github.com/arnav1803/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/arnav1803/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/arnav1803/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/arnav1803/My-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2404-most-frequent-even-element](https://github.com/arnav1803/My-LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2615-sum-of-distances](https://github.com/arnav1803/My-LeetCode/tree/master/2615-sum-of-distances) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arnav1803/My-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -268,6 +270,7 @@
 | [0242-valid-anagram](https://github.com/arnav1803/My-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/arnav1803/My-LeetCode/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/arnav1803/My-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/arnav1803/My-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1143-longest-common-subsequence](https://github.com/arnav1803/My-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/arnav1803/My-LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arnav1803/My-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
