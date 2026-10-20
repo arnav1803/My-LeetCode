@@ -95,6 +95,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/arnav1803/My-LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/arnav1803/My-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arnav1803/My-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/arnav1803/My-LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/arnav1803/My-LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arnav1803/My-LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arnav1803/My-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -129,6 +130,7 @@
 | [0496-next-greater-element-i](https://github.com/arnav1803/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/arnav1803/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/arnav1803/My-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/arnav1803/My-LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/arnav1803/My-LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2615-sum-of-distances](https://github.com/arnav1803/My-LeetCode/tree/master/2615-sum-of-distances) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arnav1803/My-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -312,6 +314,7 @@
 | [0169-majority-element](https://github.com/arnav1803/My-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/arnav1803/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/arnav1803/My-LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/arnav1803/My-LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2833-furthest-point-from-origin](https://github.com/arnav1803/My-LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/arnav1803/My-LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
