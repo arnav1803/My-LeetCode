@@ -66,6 +66,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/arnav1803/My-LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/arnav1803/My-LeetCode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/arnav1803/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/arnav1803/My-LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/arnav1803/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -205,6 +206,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/arnav1803/My-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/arnav1803/My-LeetCode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0275-h-index-ii) |
 | [0493-reverse-pairs](https://github.com/arnav1803/My-LeetCode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/arnav1803/My-LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/arnav1803/My-LeetCode/tree/master/0875-koko-eating-bananas) |
