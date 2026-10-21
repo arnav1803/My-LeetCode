@@ -65,6 +65,7 @@
 | [0239-sliding-window-maximum](https://github.com/arnav1803/My-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/arnav1803/My-LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/arnav1803/My-LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/arnav1803/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/arnav1803/My-LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/arnav1803/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -234,6 +235,7 @@
 | [0229-majority-element-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/arnav1803/My-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arnav1803/My-LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/arnav1803/My-LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/arnav1803/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/arnav1803/My-LeetCode/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/arnav1803/My-LeetCode/tree/master/0912-sort-an-array) |
@@ -461,6 +463,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/arnav1803/My-LeetCode/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/arnav1803/My-LeetCode/tree/master/0912-sort-an-array) |
 ## Enumeration
 |  |
