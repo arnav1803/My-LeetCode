@@ -112,6 +112,7 @@
 | [3637-trionic-array-i](https://github.com/arnav1803/My-LeetCode/tree/master/3637-trionic-array-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/arnav1803/My-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/arnav1803/My-LeetCode/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/arnav1803/My-LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
