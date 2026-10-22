@@ -208,6 +208,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/arnav1803/My-LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/arnav1803/My-LeetCode/tree/master/0278-first-bad-version) |
 | [0493-reverse-pairs](https://github.com/arnav1803/My-LeetCode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/arnav1803/My-LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/arnav1803/My-LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -522,4 +523,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/arnav1803/My-LeetCode/tree/master/0141-linked-list-cycle) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/arnav1803/My-LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
