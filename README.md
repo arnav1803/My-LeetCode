@@ -40,6 +40,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arnav1803/My-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arnav1803/My-LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/arnav1803/My-LeetCode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/arnav1803/My-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/arnav1803/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arnav1803/My-LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0063-unique-paths-ii) |
@@ -148,6 +149,7 @@
 | [0015-3sum](https://github.com/arnav1803/My-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arnav1803/My-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arnav1803/My-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/arnav1803/My-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/arnav1803/My-LeetCode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/arnav1803/My-LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/arnav1803/My-LeetCode/tree/master/0088-merge-sorted-array) |
@@ -168,6 +170,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/arnav1803/My-LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/arnav1803/My-LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/arnav1803/My-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/arnav1803/My-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/arnav1803/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/arnav1803/My-LeetCode/tree/master/0739-daily-temperatures) |
@@ -178,6 +181,7 @@
 | [0010-regular-expression-matching](https://github.com/arnav1803/My-LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/arnav1803/My-LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/arnav1803/My-LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/arnav1803/My-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/arnav1803/My-LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arnav1803/My-LeetCode/tree/master/0064-minimum-path-sum) |
@@ -448,6 +452,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arnav1803/My-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/arnav1803/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/arnav1803/My-LeetCode/tree/master/0739-daily-temperatures) |
 ## Heap (Priority Queue)
