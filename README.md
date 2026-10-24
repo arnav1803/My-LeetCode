@@ -291,6 +291,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/arnav1803/My-LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arnav1803/My-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/arnav1803/My-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2409-count-days-spent-together](https://github.com/arnav1803/My-LeetCode/tree/master/2409-count-days-spent-together) |
 | [2833-furthest-point-from-origin](https://github.com/arnav1803/My-LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/arnav1803/My-LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arnav1803/My-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -320,6 +321,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/arnav1803/My-LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1323-maximum-69-number](https://github.com/arnav1803/My-LeetCode/tree/master/1323-maximum-69-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/arnav1803/My-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2409-count-days-spent-together](https://github.com/arnav1803/My-LeetCode/tree/master/2409-count-days-spent-together) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arnav1803/My-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3783-mirror-distance-of-an-integer](https://github.com/arnav1803/My-LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3886-sum-of-sortable-integers](https://github.com/arnav1803/My-LeetCode/tree/master/3886-sum-of-sortable-integers) |
