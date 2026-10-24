@@ -144,6 +144,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/arnav1803/My-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/arnav1803/My-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arnav1803/My-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arnav1803/My-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -173,6 +174,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/arnav1803/My-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/arnav1803/My-LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/arnav1803/My-LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/arnav1803/My-LeetCode/tree/master/0032-longest-valid-parentheses) |
@@ -262,6 +264,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnav1803/My-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/arnav1803/My-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/arnav1803/My-LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/arnav1803/My-LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/arnav1803/My-LeetCode/tree/master/0012-integer-to-roman) |
@@ -529,4 +532,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/arnav1803/My-LeetCode/tree/master/0278-first-bad-version) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/arnav1803/My-LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
