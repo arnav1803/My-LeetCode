@@ -87,6 +87,7 @@
 | [0875-koko-eating-bananas](https://github.com/arnav1803/My-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/arnav1803/My-LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/arnav1803/My-LeetCode/tree/master/0912-sort-an-array) |
+| [1254-number-of-closed-islands](https://github.com/arnav1803/My-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1266-minimum-time-visiting-all-points](https://github.com/arnav1803/My-LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/arnav1803/My-LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/arnav1803/My-LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -379,6 +380,7 @@
 | [0064-minimum-path-sum](https://github.com/arnav1803/My-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/arnav1803/My-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1254-number-of-closed-islands](https://github.com/arnav1803/My-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/arnav1803/My-LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/arnav1803/My-LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/arnav1803/My-LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
@@ -398,11 +400,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/arnav1803/My-LeetCode/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/arnav1803/My-LeetCode/tree/master/0322-coin-change) |
+| [1254-number-of-closed-islands](https://github.com/arnav1803/My-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arnav1803/My-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/arnav1803/My-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/arnav1803/My-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arnav1803/My-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
@@ -527,6 +531,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/arnav1803/My-LeetCode/tree/master/0100-same-tree) |
+| [1254-number-of-closed-islands](https://github.com/arnav1803/My-LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
