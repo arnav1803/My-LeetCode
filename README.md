@@ -111,6 +111,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arnav1803/My-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3034-points-that-intersect-with-cars](https://github.com/arnav1803/My-LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3453-separate-squares-i](https://github.com/arnav1803/My-LeetCode/tree/master/3453-separate-squares-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arnav1803/My-LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/arnav1803/My-LeetCode/tree/master/3637-trionic-array-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/arnav1803/My-LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/arnav1803/My-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -386,6 +387,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/arnav1803/My-LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/arnav1803/My-LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arnav1803/My-LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arnav1803/My-LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String Matching
 |  |
 | ------- |
@@ -401,12 +403,14 @@
 | [0100-same-tree](https://github.com/arnav1803/My-LeetCode/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/arnav1803/My-LeetCode/tree/master/0322-coin-change) |
 | [1254-number-of-closed-islands](https://github.com/arnav1803/My-LeetCode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arnav1803/My-LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arnav1803/My-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/arnav1803/My-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/arnav1803/My-LeetCode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arnav1803/My-LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arnav1803/My-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
@@ -532,6 +536,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/arnav1803/My-LeetCode/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/arnav1803/My-LeetCode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arnav1803/My-LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
