@@ -115,6 +115,7 @@
 | [3637-trionic-array-i](https://github.com/arnav1803/My-LeetCode/tree/master/3637-trionic-array-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/arnav1803/My-LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/arnav1803/My-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/arnav1803/My-LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/arnav1803/My-LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/arnav1803/My-LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -202,6 +203,7 @@
 | [0877-stone-game](https://github.com/arnav1803/My-LeetCode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/arnav1803/My-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arnav1803/My-LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/arnav1803/My-LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -388,6 +390,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/arnav1803/My-LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arnav1803/My-LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arnav1803/My-LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/arnav1803/My-LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -427,6 +430,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/arnav1803/My-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/arnav1803/My-LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/arnav1803/My-LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/arnav1803/My-LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Database
 |  |
 | ------- |
