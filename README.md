@@ -72,6 +72,7 @@
 | [0322-coin-change](https://github.com/arnav1803/My-LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/arnav1803/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/arnav1803/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/arnav1803/My-LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/arnav1803/My-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/arnav1803/My-LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -137,6 +138,7 @@
 | [0268-missing-number](https://github.com/arnav1803/My-LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/arnav1803/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/arnav1803/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/arnav1803/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/arnav1803/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/arnav1803/My-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -168,6 +170,7 @@
 | [0283-move-zeroes](https://github.com/arnav1803/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/arnav1803/My-LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/arnav1803/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/arnav1803/My-LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/arnav1803/My-LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2109-adding-spaces-to-a-string](https://github.com/arnav1803/My-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -224,6 +227,7 @@
 | [0275-h-index-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/arnav1803/My-LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/arnav1803/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/arnav1803/My-LeetCode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/arnav1803/My-LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/arnav1803/My-LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -257,6 +261,7 @@
 | [0274-h-index](https://github.com/arnav1803/My-LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/arnav1803/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/arnav1803/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arnav1803/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/arnav1803/My-LeetCode/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/arnav1803/My-LeetCode/tree/master/0912-sort-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/arnav1803/My-LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
