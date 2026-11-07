@@ -113,6 +113,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/arnav1803/My-LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arnav1803/My-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3034-points-that-intersect-with-cars](https://github.com/arnav1803/My-LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/arnav1803/My-LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3453-separate-squares-i](https://github.com/arnav1803/My-LeetCode/tree/master/3453-separate-squares-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arnav1803/My-LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/arnav1803/My-LeetCode/tree/master/3637-trionic-array-i) |
@@ -148,6 +149,7 @@
 | [2615-sum-of-distances](https://github.com/arnav1803/My-LeetCode/tree/master/2615-sum-of-distances) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arnav1803/My-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3034-points-that-intersect-with-cars](https://github.com/arnav1803/My-LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/arnav1803/My-LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/arnav1803/My-LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/arnav1803/My-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -441,6 +443,7 @@
 | [1009-complement-of-base-10-integer](https://github.com/arnav1803/My-LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/arnav1803/My-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/arnav1803/My-LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/arnav1803/My-LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/arnav1803/My-LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/arnav1803/My-LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Database
